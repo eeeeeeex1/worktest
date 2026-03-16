@@ -7,3 +7,6 @@ print(f"你好，{name}！👋 欢迎学习 Python 和 GitHub！")
 
 # 额外输出一行提示，增加趣味性
 print(f"{name}，这是你提交到 GitHub 的第一个 Python 代码哦～")
+# dve 1
+print(f"{name}，这是你提交到 GitHub 的第一个 Python 代码哦～")
+print(f"{name}，这是你提交到 GitHub 的第一个 Python 代码哦～")
